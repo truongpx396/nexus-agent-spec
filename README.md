@@ -1,4 +1,4 @@
-# 🤖 Nexus Agent - 🏢 Enterprise Edition
+# 🤖 Nexus Agent Spec - 🏢 Enterprise Edition
 
 > **One model-agnostic AI agent platform** — a single reliable agent kernel wrapped in an engineered harness, exposed through thin surface adapters, fronted by a control plane, and grounded in a trust surface. It serves customers from a 5-person startup to a 50,000-person enterprise **through configuration and connectors, never per-customer code forks.**
 
